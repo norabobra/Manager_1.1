@@ -2,7 +2,7 @@
 
 Утилита для обработки maFile файлов Steam с графическим интерфейсом.
 
-![alt text](image.png)
+![alt text](images/image-1.png)
 
 ## Возможности
 - Переименование файлов по account_name
